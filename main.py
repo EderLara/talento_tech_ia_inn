@@ -1,2 +1,2 @@
 print('Hola Mundo, talento Tech')
-print('Eder Lara - Profesor')
+print('Santiago G - Analítica Colmédicos')
